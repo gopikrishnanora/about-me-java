@@ -25,13 +25,12 @@ public class AboutMe {
         System.out.println(" - 🔧 Scripting: Bash, Python, YAML");
         System.out.println(" - 🕸️ Networking: VPC, Load Balancer, NAT Gateway, Firewall Rules");
         System.out.println(" - 🧪 Testing: Smoke Tests, Canary Deployments, Chaos Engineering");
-        System.out.println();
+        System.out.println("\n  ");
     }
 
     private static void printExperience() {
         System.out.println("📌 Employment History:");
 
-        System.out.println("\n  ");
         System.out.println("\n🔹 Cloud & DevOps Engineer – HCL Technologies (2022 – Present)");
         System.out.println("   - Migrated enterprise workloads to GCP and Azure cloud platforms.");
         System.out.println("   - Designed and implemented CI/CD pipelines using GitHub Actions and Azure DevOps.");
